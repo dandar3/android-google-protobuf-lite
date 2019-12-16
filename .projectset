@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<psf version="2.0">
+<provider id="org.eclipse.team.svn.core.svnnature">
+<project reference="1.0.1,https://github.com/dandar3/google-protobuf-lite/tags/1.0.0,google-protobuf-lite,f04f64094620001a13bc9cc2f4b31a6b;https://github.com/dandar3/google-protobuf-lite;https://github.com/dandar3/google-protobuf-lite;branches;tags;trunk;true;2807446f-01f9-37ba-fa80-ce57b7db7bff;https://github.com/dandar3/google-protobuf-lite;;false;;;0"/>
+</provider>
+</psf>
